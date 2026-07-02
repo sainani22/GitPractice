@@ -1,2 +1,3 @@
 Hello Git 
 Welcome to Git 
+Git is easy to learn 
