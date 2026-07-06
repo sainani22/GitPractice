@@ -1,5 +1,1 @@
-Hello Git 
-Welcome to Git
-Learning GitHub Actions
-Learning Git Merge Conflict
-Learning Git Branches
+Learning Git log
