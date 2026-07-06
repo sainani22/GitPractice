@@ -3,3 +3,5 @@ Git Reset Demo
 Line 1
 Line 2
 Line3
+Learning Git Reset
+Learning Git Reset --soft
