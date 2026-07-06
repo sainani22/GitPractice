@@ -1,0 +1,5 @@
+soft-demo
+
+Git Reset Soft Demo
+
+Learning git reset --soft
