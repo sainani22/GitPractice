@@ -1,5 +1,4 @@
 Hello Git 
-Welcome to Git 
-Git is easy to learn 
+Welcome to Git
+Learning GitHub Actions
 Learning Git Branches
-This is Feature Login Branch
