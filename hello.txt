@@ -5,3 +5,5 @@ Learning Git Merge Conflict
 Learning Git Branches
 Learning Git Log
 Learning Git Diff
+Learning Git Stash
+Temporary Work
