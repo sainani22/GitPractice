@@ -1,0 +1,3 @@
+Git Reset Mixed Demo
+
+Learning git reset --mixed
